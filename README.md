@@ -27,4 +27,4 @@ A car dealership garage management system built in Microsoft Excel using Visual 
 
 ## Project Background
 
-This repository was developed as part of a college project for the **App-for-Dev** class (2025), showcasing practical business application development using Microsoft Excel and VBA.
+This repository was developed as part of a college project for the **App-for-Dev** class (2024), showcasing practical business application development using Microsoft Excel and VBA.
