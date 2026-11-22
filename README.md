@@ -1,3 +1,6 @@
+# Car Dealership Garage Management System (Excel VBA)
+
+A car dealership garage management system built in Microsoft Excel using Visual Basic for Applications (VBA). This project showcases spreadsheet automation and structured data management across five integrated worksheets—Menu, Dashboard, Order Sheet, Garage Table, and Customer Table
 
 ## Screenshots
 * **Dashboard:** demonstrates relational data consolidation and dynamic financial reporting by combining multi-level Pivot Tables
